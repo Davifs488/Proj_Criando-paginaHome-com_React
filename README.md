@@ -1,5 +1,7 @@
-# React + TypeScript + Vite
 
+<h1>React + TypeScript + Vite</h1>
+<h3>Projeto de criação de uma pagina de home com login</h3>
+<p>Esse projeto tem o uso do TypeScript ,Vite, Tailwind CSS, React Router e Firebase </p>
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
