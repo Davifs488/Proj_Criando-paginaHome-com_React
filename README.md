@@ -5,6 +5,7 @@
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 <p>Criei pagina de Login, Inpt e redes Sociais</p>
 <p>Fiz a configuração do db Firebase com minha pagina de login.</p>
+<p>Criei o Header da aplicação de fiz a configuração da segurança do login</p>
 
 Currently, two official plugins are available:
 
